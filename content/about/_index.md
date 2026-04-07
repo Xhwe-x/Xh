@@ -1,6 +1,15 @@
 ---
-title: "About Kawaii Theme"
-description: "Learn more about the Kawaii Hugo theme and its creators"
+title: "关于我"
+description: "关于Xavier"
+你好，我是Xavier，一名打工牛马。
+
+这里主要会分享：
+
+- 信息化设计
+- 效率工具
+- 技术折腾
+- 工作记录
+- 生活思考
 ---
 
 **Kawaii** is a modern Hugo theme that combines beautiful design with powerful functionality. Created with love for the Hugo community, it aims to provide a delightful experience for both content creators and their readers.
