@@ -6,25 +6,32 @@
       "button",
       "circle",
       "div",
+      "em",
       "footer",
       "h1",
+      "h2",
       "h3",
       "h4",
       "head",
       "header",
+      "hr",
       "html",
+      "li",
       "line",
       "link",
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "path",
       "script",
       "section",
       "span",
+      "strong",
       "svg",
-      "title"
+      "title",
+      "ul"
     ],
     "classes": [
       "kawaii-body",
@@ -61,6 +68,7 @@
       "kawaii-hero-decoration",
       "kawaii-hero-subtitle",
       "kawaii-hero-title",
+      "kawaii-list-description",
       "kawaii-list-header",
       "kawaii-list-title",
       "kawaii-logo",
@@ -74,7 +82,6 @@
       "kawaii-nav-link",
       "kawaii-nav-menu",
       "kawaii-posts-grid",
-      "kawaii-search-toggle",
       "kawaii-shape",
       "kawaii-shape-1",
       "kawaii-shape-2",
@@ -87,7 +94,22 @@
       "kawaii-theme-toggle"
     ],
     "ids": [
-      "kawaii-nav-menu"
+      "-built-in-search",
+      "-dark-mode",
+      "-mobile-ready",
+      "-modern-design",
+      "-performance-focused",
+      "community",
+      "credits",
+      "development-philosophy",
+      "features-at-a-glance",
+      "get-started",
+      "kawaii-nav-menu",
+      "open-source",
+      "our-mission",
+      "roadmap",
+      "support",
+      "technical-specifications"
     ]
   }
 }

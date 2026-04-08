@@ -64,8 +64,7 @@ enableEmoji = true
     icon = "☕"
     link = "/about"
 
-    [params]
-  logo = "/images/logo.png"
+
 
 [menu]
   [[menu.main]]
